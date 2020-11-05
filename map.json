@@ -820,7 +820,7 @@
         {
          "columns":32,
          "firstgid":321,
-         "image":"..\/..\/map src\/generic-rpg-pack_v0.4_(alpha-release)_vacaroxa\/rpg-pack\/atlas.png",
+         "image":"atlas.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
